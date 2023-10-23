@@ -135,5 +135,5 @@ The ConcePTION project has received funding from the Innovative Medicines Initia
 Rutger van den Bor - R.M.vandenBor@umcutrecht.nl    
 Vjola Hoxhaj - v.hoxhaj@umcutrecht.nl     
 
-Project Link: [https://github.com/IMI-ConcePTION/Level-2-checks](https://github.com/IMI-ConcePTION/Level-2-checks)
+Project Link: [https://github.com/UMC-Utrecht-RWE/INSIGHT-Level2](https://github.com/UMC-Utrecht-RWE/INSIGHT-Level2)
 
