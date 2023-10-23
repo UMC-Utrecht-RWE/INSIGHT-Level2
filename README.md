@@ -107,9 +107,9 @@ Short version:
 <!-- LINKS -->
 ### Data characterization study links   
 
-[Level 1 checks](https://github.com/UMC-Utrecht-RWE/ConcePTION-Level1): Checking the integrity of the ETL procedure.     
-[Level 2 checks](https://github.com/UMC-Utrecht-RWE/ConcePTION-Level2): Checking the logical relationship of the CDM tables.    
-[Level 3 checks](https://github.com/UMC-Utrecht-RWE/ConcePTION-Level3): Benchamrking across DAPs and external sources.     
+[Level 1 checks](https://github.com/UMC-Utrecht-RWE/INSIGHT-Level1): Checking the integrity of the ETL procedure.     
+[Level 2 checks](https://github.com/UMC-Utrecht-RWE/INSIGHT-Level2): Checking the logical relationship of the CDM tables.    
+[Level 3 checks](https://github.com/UMC-Utrecht-RWE/INSIGHT-Level3): Benchamrking across DAPs and external sources.     
 
 ### Current version
 
